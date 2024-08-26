@@ -1,4 +1,4 @@
-# Analysis On Online Retails Data
+# Analysis on Online Retails data
 Raw dataset: Online Retail.xlsx
 
 | Purpose                                    | Skills                                                       | Dataset                       | Notebook                      | Generated new dataset                |
