@@ -1,6 +1,6 @@
 # Analysis on Online Retails data
 Raw dataset: Online Retail.xlsx
-| **Purpose**                      | **Skills**                                                                                                            | **Dataset**                     | **Notebook**                          | **Generated New Dataset**           |
+| **Purpose**                      | **Skills Demonstrated**                                                                                                            | **Dataset**                     | **Notebook**                          | **Generated New Dataset**           |
 |-----------------------------------|-----------------------------------------------------------------------|----------------------------------|---------------------------------------|-------------------------------------|
 | Data preprocessing and understanding the data | Data cleaning, feature engineering, and EDA                             | Online Retail.xlsx               | `EDA-Online-Retail.ipynb`             | `cleaned_Online_Retail.csv`         |
 | Explore UK products               | Product return rate analysis and profitability insights                | `cleaned_Online_Retail.csv`      | `products_return.ipynb`               | `UK_return_rate.csv`                |
