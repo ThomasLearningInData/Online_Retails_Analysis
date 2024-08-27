@@ -12,22 +12,22 @@ Note: I have utilized both OpenAI and Choq (with the Llama3-8B-8192 model) to ge
 ## EDA 
 Business insight are listed inside the ipynb file. 
 
-# Monthly Total Revenue and Number of Orders by Country:
+### Monthly Total Revenue and Number of Orders by Country:
 ![螢幕截圖 2024-08-26 下午7 45 26](https://github.com/user-attachments/assets/feb1dd98-29e3-40fe-9b41-2324d3d673c7)
 
-# Weekday vs weekend purchase
+### Weekday vs weekend purchase
 ![螢幕截圖 2024-08-26 下午7 46 00](https://github.com/user-attachments/assets/9b065300-9e38-49af-9594-cbb93a889a9a)
 
-# Top 20 Customers by Total Purchases and Total Spend
+### Top 20 Customers by Total Purchases and Total Spend
 ![image](https://github.com/user-attachments/assets/b143d789-6a03-48e8-9319-ac47d00f5a83)
 
-# Top 20 Customers by Total Spend and Their Number of Purchases
+### Top 20 Customers by Total Spend and Their Number of Purchases
 ![image](https://github.com/user-attachments/assets/3f5b39b1-d810-4168-8926-f593c7b71539)
 
-# Daily Sales Trends by Country - UK
+### Daily Sales Trends by Country - UK
 ![螢幕截圖 2024-08-26 下午7 49 09](https://github.com/user-attachments/assets/0dfe2075-4d6b-44ff-ba39-dea0124a4451)
 
-# Most Selling 20 Products
+### Most Selling 20 Products
 ![image](https://github.com/user-attachments/assets/1d7dda9f-79ad-43b2-b2d4-10ddf8691eea)
 
 
