@@ -46,10 +46,7 @@ Business insight are listed inside the ipynb file.
 ![螢幕截圖 2024-08-26 下午8 02 24](https://github.com/user-attachments/assets/27e26567-b390-42f0-8d53-1c28e5839a99)
 
 ### RFM Score: it has been weighted
-![image](https://github.com/user-attachments/assets/69532585-bab6-4600-bdcb-61b9578f2b58)
-
-### Generate label by RFM Score
-![螢幕截圖 2024-08-26 下午8 07 29](https://github.com/user-attachments/assets/d399742d-3508-4325-ad8d-3ceebd2b5544)
+![image](https://github.com/user-attachments/assets/5787de3c-b991-4d75-be7b-8be6afe9da83)
 
 ### Multiple Linear Regression
 ![螢幕截圖 2024-08-26 下午8 07 54](https://github.com/user-attachments/assets/7370346f-5889-4762-b4aa-c00ace90848f)
